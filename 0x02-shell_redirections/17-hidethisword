@@ -1,0 +1,4 @@
+#!/bin/bash
+grep -v bin /etc/passwd
+git add .
+[A[C[C[C[C[C[C[C
